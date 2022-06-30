@@ -1,0 +1,15 @@
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\RestHost - Server.exe.config
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\RestHost - Server.exe
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\RestHost - Server.pdb
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\Guna.UI.dll
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\Guna.UI2.dll
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Server.csprojAssemblyReference.cache
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost___Araçlar.load.resources
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost___Araçlar.menu.resources
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost___Server.Properties.Resources.resources
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Server.csproj.GenerateResource.cache
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Server.csproj.CoreCompileInputs.cache
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Server.csproj.CopyComplete
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Server.exe
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Server.pdb
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost___Server.guncelleme.resources

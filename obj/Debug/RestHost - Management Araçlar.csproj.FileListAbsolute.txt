@@ -1,0 +1,14 @@
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost___Araçlar.load.resources
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost___Araçlar.menu.resources
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost___Araçlar.Properties.Resources.resources
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Management Araçlar.csproj.GenerateResource.cache
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Management Araçlar.csproj.CoreCompileInputs.cache
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Araçlar.exe
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Araçlar.pdb
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\RestHost - Araçlar.exe.config
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\RestHost - Araçlar.exe
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\RestHost - Araçlar.pdb
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\Guna.UI.dll
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\bin\Debug\Guna.UI2.dll
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Management Araçlar.csproj.CopyComplete
+C:\Users\anil\source\repos\RestHost - Sistem AraçlarI\RestHost - Araçlar\obj\Debug\RestHost - Management Araçlar.csprojAssemblyReference.cache
