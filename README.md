@@ -1,8 +1,9 @@
 # Simple Server Administration Panel
 
-Features
-Firewall Configuration
-Package download
-Ram, disk and Line Check
-Turning the Server On and Off
+<p><strong>Features</strong></p>
+
+<p>Firewall Configuration</p>
+<p>Package download</p>
+<p>Ram, disk and Line Check</p>
+<p>Turning the Server On and Off</p>
 
